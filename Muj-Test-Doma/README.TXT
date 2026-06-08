@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Test
-PURPOSE OF PROJECT: Známka
+PURPOSE OF PROJECT: Zájem/úkol
 VERSION or DATE: 1.0
 HOW TO START THIS PROJECT: 
 AUTHORS: Pavel Bočáň
