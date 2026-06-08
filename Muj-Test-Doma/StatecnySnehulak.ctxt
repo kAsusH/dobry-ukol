@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StatecnySnehulak
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StatecnySnehulak\ here.\r\n\ \r\n\ @author\ (Pavel\ Bo\u010D\u00E1\u0148)\ \r\n\ @version\ (28.4.2026)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ pokusOHod()
+comment3.params=
+comment3.target=void\ odblokuj()
+numComments=4
